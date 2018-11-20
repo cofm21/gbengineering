@@ -1,0 +1,10 @@
+{
+  "name": "gbengineering",
+  "version": "1.0.0",
+  "description": "Landing page for Glass Box Engineering.",
+  "main": "index.js",
+  "repository": "https://github.com/cofm21/gbengineering.git",
+  "author": "Connor McGuinness",
+  "license": "MIT",
+  "private": false
+}
